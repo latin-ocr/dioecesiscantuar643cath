@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dioecesiscantuar643cath_0003.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1333 30 1686 72">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1333 30 1686 72">
+     <span class='ocr_line' id='line_1_1' title="bbox 1333 30 1686 72; baseline -0.068 14"><span class='ocrx_word' id='word_1_1' title='bbox 1333 30 1686 72; x_wconf 59' lang='grc' dir='ltr'>εεεεεεεεε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 82 987 304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 82 1607 331">
+     <span class='ocr_line' id='line_1_2' title="bbox 349 82 987 304; baseline -0.042 -59"><span class='ocrx_word' id='word_1_2' title='bbox 349 82 987 304; x_wconf 50' lang='lat' dir='ltr'>Q!‹Qlffimsfflfflfflfflfflfflfflfflfflffluum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 491 107 571 299">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 107 571 299">
+     <span class='ocr_line' id='line_1_3' title="bbox 491 107 571 299; baseline -0.088 -48"><span class='ocrx_word' id='word_1_3' title='bbox 491 107 571 299; x_wconf 48' lang='lat' dir='ltr'>Q</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
